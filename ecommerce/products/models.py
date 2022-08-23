@@ -27,7 +27,4 @@ class Products(models.Model):
 
 
 
-	 # 06a1bb7c7ae975127397832f989a5d7fbc0deace
-
-
-	 # end point: 06a1bb7c7ae975127397832f989a5d7fbc0deace
+	 
